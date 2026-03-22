@@ -11,7 +11,7 @@ const DEFAULTS = {
   phone: '',
   location: 'India',
   linkedin: 'https://linkedin.com/in/rathnesh06',
-  github: 'https://github.com/Rathnesh12',
+  github: 'https://github.com/Rathnesh123',
   twitter: '',
   website: '',
   bio: 'Open to new opportunities and collaborations. Feel free to reach out!',
